@@ -25,6 +25,7 @@ npm run build --report
 ## deploy
 
 ```bash
+yarn build
 yarn deploy
 ```
 
